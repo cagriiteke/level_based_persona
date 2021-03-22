@@ -1,1 +1,1 @@
-# level_based_persona
+# Amaç: Tekil olarak var olan müşterilerin bazı özelliklerini kullanarak yeni müşteri tanımları yapmak, müşterileri price’e göre segmentlere ayırmak ve yeni gelecek bir müşterinin hangi segmente ait olabileceğini belirlemeye çalışmak.
